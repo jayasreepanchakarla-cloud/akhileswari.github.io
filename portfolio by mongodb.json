@@ -1,0 +1,45 @@
+{
+  "resume": {
+    "name": "Akhileswari",
+    "title": "B.Tech Undergraduate | AI Enthusiast",
+    "email": "akhileswari@email.com",
+    "phone": "+91 XXXXX XXX",
+    "location": "Gudlavalleru, Andhra Pradesh",
+    "nationality": "Indian",
+    "religion": "Hindu",
+    "education": [
+      {
+        "degree": "B.Tech",
+        "institution": "SR Gudlavalleru Engineering College",
+        "year": "2022-2026",
+        "status": "Current"
+      },
+      {
+        "degree": "Intermediate",
+        "institution": "Sri Bhavishya Educational Institutions, Vijayawada",
+        "percentage": "95%",
+        "year": "2020-2022"
+      },
+      {
+        "degree": "10th Class",
+        "institution": "Sri Chaithanya Techno Curriculum, Avanigadda",
+        "percentage": "94%",
+        "year": "2020"
+      }
+    ],
+    "skills": ["C Programming", "MS Office", "AI Basics", "Web Research"],
+    "languages": ["Telugu (Native)", "English (Fluent)"],
+    "strengths": ["Communication", "Problem Solving", "Decision Making"],
+    "interests": ["Reading Novels", "History Books", "Web Research", "AI"]
+  },
+  "projects": [
+    {
+      "title": "Student Management System",
+      "category": "C Programming",
+      "description": "A comprehensive student management system in C",
+      "technologies": ["C", "File Handling"],
+      "github_link": "#",
+      "demo_link": "#"
+    }
+  ]
+}
